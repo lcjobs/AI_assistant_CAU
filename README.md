@@ -1,0 +1,2 @@
+# AI_assistant_CAU
+一款用于中国农业大学学生的AI智能体助手
